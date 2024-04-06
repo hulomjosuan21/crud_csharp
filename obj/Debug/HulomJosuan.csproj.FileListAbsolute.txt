@@ -1,0 +1,15 @@
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\HulomJosuan.exe.config
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\HulomJosuan.exe
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\HulomJosuan.pdb
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\EntityFramework.dll
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\EntityFramework.xml
+C:\Users\FOR CLONE\source\repos\HulomJosuan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.Form1.resources
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.Properties.Resources.resources
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.csproj.GenerateResource.cache
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.csproj.CopyComplete
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.exe
+C:\Users\FOR CLONE\source\repos\HulomJosuan\obj\Debug\HulomJosuan.pdb
